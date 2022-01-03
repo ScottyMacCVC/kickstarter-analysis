@@ -5,7 +5,7 @@
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 ---
-[data-1-1-3-StarterBook-21.12.16-Scott MacFarlane](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/main/data-1-1-3-StarterBook-21.12.16-Scott%20MacFarlane.xlsx)
+[Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
 ---
 ## What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 ## What can you conclude about the Outcomes based on Goals?
