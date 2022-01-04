@@ -8,7 +8,10 @@
 [Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
 ---
 ## Two Conclusions for Theater Outcomes by Launch Date
-### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the higehst success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
-## What can you conclude about the Outcomes based on Goals? 
-## What are some limitations of this dataset?
+### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
+## Outcomes based on Goals Conclusions 
+### We expect a high percentage chance of success with smaller goals. Although, we need to verify the reasons why we see a spike in success between $35,000 & $44,999 range. Goals under $10,000 will likely return a successful outcome.
+## The Limitations of this Dataset
+### Although the charts indicate a target time of year & a goal target, we need to identify and correlate the goal amounts with the launch date. There may be an optimized month with a higher goal likelihood. We also want to make sure we don't leave money on the table. If a goal was set too low, a successful outcome isn't necessarily the best measurement. 
 ## What are some other possible tables and/or graphs that we could create?
+### A stacked bar graph would show the total goal amounts in a single month and the individual goal amounts within. The months would be the X-axis, the outcome amounts would be the Y-axis
