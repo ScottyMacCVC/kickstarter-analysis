@@ -1,7 +1,7 @@
 # An Analysis of Outcomes Based on Goals
 ## Overview of Project: Explain the purpose of this analysis.
 ---
-### The images below reflect the impact of theater & music. Please note the uptick in succesful campaigns during the months of May & June. 
+### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 ---
@@ -13,5 +13,5 @@
 ### We expect a high percentage chance of success with smaller goals. Although, we need to verify the reasons why we see a spike in success between $35,000 & $44,999 range. Goals under $10,000 will likely return a successful outcome.
 ## The Limitations of this Dataset
 ### Although the charts indicate a target time of year & a goal target, we need to identify and correlate the goal amounts with the launch date. There may be an optimized month with a higher goal likelihood. We also want to make sure we don't leave money on the table. If a goal was set too low, a successful outcome isn't necessarily the best measurement. 
-## What are some other possible tables and/or graphs that we could create?
+## Recommended Graphs for Further Research
 ### A stacked bar graph for successful campaigns would show the total goal amounts in a single month and the individual goal amounts within. The months would be the X-axis, the outcome amounts would be the Y-axis, and the various outcomes by $ goal amount would make up the bar. 
