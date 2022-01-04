@@ -5,11 +5,11 @@
 ---
 ## Two Conclusions for Theater Outcomes by Launch Date
 ### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
-### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 ---
 ## Outcomes based on Goals Conclusions 
 ### We expect a high percentage chance of success with smaller goals. Although we need to verify the reasons why we see a spike in success between $35,000 & $44,999 range, goals under $10,000 will likely return a successful outcome.
+### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 ---
 ## The Limitations of this Dataset
