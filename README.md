@@ -9,8 +9,9 @@
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 ---
 ## Outcomes based on Goals Conclusions 
-### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 ### We expect a high percentage chance of success with smaller goals. Although we need to verify the reasons why we see a spike in success between $35,000 & $44,999 range, goals under $10,000 will likely return a successful outcome.
+### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
+---
 ## The Limitations of this Dataset
 ### Although the charts indicate a target time of year & a goal target ceiling, we need to identify and correlate the goal amounts with the launch date. There may be an optimized month with a higher likelihood of a larger goal. We also want to make sure we don't leave money on the table. If a goal was set too low and the event exceeded the goal by a considerable amount, a successful outcome isn't necessarily the best measurement. 
 ## Recommended Graphs for Further Research
