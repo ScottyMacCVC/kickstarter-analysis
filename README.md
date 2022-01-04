@@ -1,6 +1,6 @@
 # An Analysis of Outcomes Based on Goals
 ## Overview of Project: The analysis will help identify the best month & goal amounts. These are chosen for high success rates and should be referenced when planning future launches. 
----
+
 ### Please see Hyperlink for our referenced XL sheet  - [Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
 ---
 ## Two Conclusions for Theater Outcomes by Launch Date
