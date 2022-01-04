@@ -14,4 +14,4 @@
 ## The Limitations of this Dataset
 ### Although the charts indicate a target time of year & a goal target, we need to identify and correlate the goal amounts with the launch date. There may be an optimized month with a higher goal likelihood. We also want to make sure we don't leave money on the table. If a goal was set too low, a successful outcome isn't necessarily the best measurement. 
 ## What are some other possible tables and/or graphs that we could create?
-### A stacked bar graph would show the total goal amounts in a single month and the individual goal amounts within. The months would be the X-axis, the outcome amounts would be the Y-axis
+### A stacked bar graph for successful campaigns would show the total goal amounts in a single month and the individual goal amounts within. The months would be the X-axis, the outcome amounts would be the Y-axis, and the various outcomes by $ goal amount would make up the bar. 
