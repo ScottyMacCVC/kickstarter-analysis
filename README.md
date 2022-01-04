@@ -1,5 +1,5 @@
 # An Analysis of Outcomes Based on Goals
-## Overview of Project: The purpose of the analysis is to identify months & goal amounts with high success rates and use them to plan future launches. 
+## Overview of Project: The analysis will help identify the best month & goal amounts. These are chosen due to the high success rates and should be referenced when planning future launches. 
 ---
 ### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
