@@ -5,8 +5,7 @@
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 ---
-### The XL below is our data tables for reference
-[Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
+### Please see Hyperlink for  - [Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
 ---
 ## Two Conclusions for Theater Outcomes by Launch Date
 ### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
