@@ -1,6 +1,12 @@
 # An Analysis of Outcomes Based on Goals
 ## Overview of Project: The purpose of the analysis is to identify months & goal amounts with high success rates and use them to plan future launches. 
-
+---
+### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
+### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
+### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
+---
+[Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
+---
 ## Two Conclusions for Theater Outcomes by Launch Date
 ### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
 ## Outcomes based on Goals Conclusions 
@@ -9,10 +15,4 @@
 ### Although the charts indicate a target time of year & a goal target ceiling, we need to identify and correlate the goal amounts with the launch date. There may be an optimized month with a higher likelihood of a larger goal. We also want to make sure we don't leave money on the table. If a goal was set too low, a successful outcome isn't necessarily the best measurement. 
 ## Recommended Graphs for Further Research
 ### A stacked bar graph for successful campaigns would show the total goal amounts in a single month and the individual goal amounts within. The months would be the X-axis, the outcome amounts would be the Y-axis, and the various outcomes by $ goal amount would make up the bar. 
----
-### The images below reflect the impact of theater. Please note the uptick in succesful campaigns during the months of May & June. 
-### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
-### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
----
-[Kickstarter_Challenge.xlsx](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/Kickstarter_Challenge.xlsx)
----
+
