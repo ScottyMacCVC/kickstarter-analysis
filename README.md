@@ -3,7 +3,7 @@
 ## The data collected has been sorted to identify favorable theater launch outcomes.  
 
 ### The analysis will help identify the best month & goal amounts. These are chosen for high success rates and will be helpful in planning future launches. 
-
+---
 ### **Two Conclusions for Theater Outcomes by Launch Date**
 ### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
