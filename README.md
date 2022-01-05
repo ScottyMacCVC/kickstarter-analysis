@@ -1,12 +1,8 @@
-# Kickstarting with Excel
 # An Analysis of Theater Launch Outcomes
 
-## Overview of Project
 ## The data collected has been sorted to identify favorable theater launch outcomes.  
 
-### Purpose
 ### The analysis will help identify the best month & goal amounts. These are chosen for high success rates and will be helpful in planning future launches. 
----
 
 ## Analysis and Challenges
 
