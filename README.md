@@ -1,5 +1,5 @@
 # An Analysis of Theater Launch Outcomes
-## The analysis will help identify the best month & goal amounts. These are chosen for high success rates and should be referenced when planning future launches. 
+## The analysis will help identify the best month & goal amounts. These are chosen for high success rates and will be helpful in planning future launches. 
 
 ## Two Conclusions for Theater Outcomes by Launch Date
 ### The months of May & June show an increase in successful launch outcomes when compared to the other months. The data supports launching a theater project in these months would provide the highest success rates. The theater success rates decline beyond May and it is inadvisable to launch during the Winter months. 
