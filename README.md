@@ -4,17 +4,17 @@
 
 ### The analysis will help identify the best month & goal amounts. These are chosen for high success rates and will be helpful in planning future launches. 
 
-## Analysis and Challenges
+## Analysis and Challenges 
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date - The data analysis covered several thousand crowdfunding projects with the hopes of uncovering hidden trends. The main interest is starting a campaign for theater. The data would need to be sorted into different categories and sorted, again, for differences determining success. The research would also need to provide a time of year. The chart below shows the Theater Outcomes based on the launch date and one month in particular stands out, May.
 
 ### ![Theater_Outcomes_vs_Launch](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Theater_Outcomes_vs_Launch.png) 
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals - The size of the goal was measured for success. We found the success rate skewed toward the lower end of the goal amount scale. There is a clear trend toward goal amounts under $10,000. 
 
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered - One issue to consider is the availability of venues. With a large amount of theater successes, we can assume there are a lot of existing theater events in the same time period. 
 
 ## Results
 
