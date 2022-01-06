@@ -14,7 +14,7 @@
 
 ### ![Outcomes_vs_Goals](https://github.com/ScottyMacCVC/kickstarter-analysis/blob/CHALLENGE-01/resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered - One issue to consider is the availability of venues. With a large amount of theater successes, we can assume there are a lot of existing theater events in the same time period. 
+### Challenges and Difficulties Encountered - One issue to consider is the availability of venues. With a large amount of theater successes, we can assume there are a lot of existing theater events in the same time period. The other part the charts fail to show is the "why" the % success was high in the middle-upper goal range. If you look into the data, you find few launches but they were successful and thus created the higher success rate % on the chart. 
 
 ## Results
 
